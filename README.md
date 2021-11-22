@@ -66,13 +66,18 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ![Verify the 5000 Tokens in Metamask](Images/kasei_coin_crowdsale_optional_deployer_9.png)
 ### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 3 in Swap Section
 ![Verify the 5000 Tokens in Metamask Swap](Images/kasei_coin_crowdsale_optional_deployer_10.png)
-_
+
 ### Finalize before the closing time - fails
 ![Verify that the finalize before closing fails](Images/kasei_coin_crowdsale_optional_deployer_11.png)
 ### Finalize after the closing time (30 mins from crowdsale deployment) - passes
 ![Verify that the finalize after closing - passes](Images/kasei_coin_crowdsale_optional_deployer_13.png)
 ### Verify the finalized crowdsale - finalized is true and hasClosed is true and isOpen is false
 ![Verify that the finalized crowdsale](Images/kasei_coin_crowdsale_optional_deployer_14.png)
+
+## Send the 5000 Kasei Coin tokens from Account 3 to Account 4
+![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 1](Images/metamask_send_all_5000_kasc_tokens_1.png)
+![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 2](Images/metamask_send_all_5000_kasc_tokens_2.png)
+![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 3](Images/metamask_send_all_5000_kasc_tokens_3.png)
 
 ---
 
