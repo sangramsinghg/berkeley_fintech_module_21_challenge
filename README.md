@@ -3,37 +3,37 @@
 Setup a new fungible ERC-20 compliant cryptocurrency KaseiCoin in solidity.
 Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 
-## Evaludation Evidence 
+## Evaluation Evidence 
 ### Solidity Compiler - Compiled KaseiCoin
 ![Compiled KaseiCoin](Images/kasei_coin_evaluation_evidence.png)
 ### Solidity Compiler - Compiled KaseiCoinCrowdsale
 ![Compiled KaseiCoinCrowdsale](Images/kasei_coin_crowdsale_evaluation_evidence.png)
 ### Solidity Compiler - Compiled KaseiCoinCrowdsaleDeployer
-![Compiled KaseiCoinCrowdsaleDeployer](Images/kaseicoin_crowdsale_deployer_evaluation_evidence.png)
+![Compiled KaseiCoinCrowdsaleDeployer](Images/kasei_coin_crowdsale_deployer_evaluation_evidence.png)
 
 ## Use the KaseiCoinCrowdsaleDeployer to deploy the KaseiCoin Crowdsale
-![Setup the KaseiCoinCrowdsaleDeployer](Images/kaseicoin_crowdsale_deployer_deployment_1_2.png)
+![Setup the KaseiCoinCrowdsaleDeployer](Images/kasei_c_oin_crowdsale_deployer_deployment_1_2.png)
 ## Deployed the Kasei Coin Crowdsale Deployer
-![Deployed Kasei Coin Crowdsale Deployer ](Images/kaseicoin_crowdsale_deployer_deployment_2_2.png)
+![Deployed Kasei Coin Crowdsale Deployer ](Images/kasei_coin_crowdsale_deployer_deployment_2_2.png)
 ## Deploy the Kasei Coin Crowdsale 
-![Deploy Kasei Coin Crowdsale](Images/kaseicoin_crowdsale_deployer_deployment_3_2.png)
+![Deploy Kasei Coin Crowdsale](Images/kasei_coin_crowdsale_deployer_deployment_3_2.png)
 ## Deployed Kasei Coin Crowdsale
-![Deployed Kasei  Kasei Coin](Images/kaseicoin_crowdsale_deployer_deployment_4_2.png)
+![Deployed Kasei  Kasei Coin](Images/kasei_coin_crowdsale_deployer_deployment_4_2.png)
 
 ## Buy 54321 tokens
-![Buy 54321 Tokens](Images/kaseicoin_crowdsale_deployer_deployment_5_2.png)
-![Buy 54321 Tokens Metmask](Images/kaseicoin_crowdsale_deployer_deployment_6_2.png)
+![Buy 54321 Tokens](Images/kasei_coin_crowdsale_deployer_deployment_5_2.png)
+![Buy 54321 Tokens Metmask](Images/kasei_coin_crowdsale_deployer_deployment_6_2.png)
 
 ## Verify in Remix Crowdsale that the 54321 wei/tokens have been raised 
-![Verify the 54321 Tokens in Remix](Images/kaseicoin_crowdsale_deployer_deployment_7_2.png)
+![Verify the 54321 Tokens in Remix](Images/kasei_coin_crowdsale_deployer_deployment_7_2.png)
 ## Verify in Ganache that the 54321 wei/tokens have been raised 
-![Verify the 54321 Tokens in Ganache](Images/kaseicoin_crowdsale_deployer_deployment_8_2.png)
+![Verify the 54321 Tokens in Ganache](Images/kasei_coin_crowdsale_deployer_deployment_8_2.png)
 ## Verify in Remix console that the 54321 wei/tokens have been raised 
-![Verify the 54321 Tokens in Remix Console](Images/kaseicoin_crowdsale_deployer_deployment_9_2.png)
+![Verify the 54321 Tokens in Remix Console](Images/kasei_coin_crowdsale_deployer_deployment_9_2.png)
 ## Verify in Remix Kasei Token that the 54321 wei/tokens have been supplied
-![Verify the 54321 Tokens in Remix Kasei Token](Images/kaseicoin_crowdsale_deployer_deployment_10_2.png)
+![Verify the 54321 Tokens in Remix Kasei Token](Images/kasei_coin_crowdsale_deployer_deployment_10_2.png)
 ## Verify in Remix Kasei Token that the 54321 wei/tokens have been supplied using the balanceOf
-![Verify the 54321 Tokens in Remix Kasei Token balanceOf](Images/kaseicoin_crowdsale_deployer_deployment_11_2.png)
+![Verify the 54321 Tokens in Remix Kasei Token balanceOf](Images/kasei_coin_crowdsale_deployer_deployment_11_2.png)
 
 ## Verify in Metmask that the 54321 wei/tokens have been supplied to Account 4
 ![Verify the 54321 Tokens in Metamask Account 4](Images/kasei_coin_crowdsale_metamask_1.png)
@@ -47,8 +47,6 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ![Deployed Kasei Coin Crowdsale Deployer ](Images/kasei_coin_crowdsale_optional_deployer_2.png)
 ### Deploy the Kasei Coin Crowdsale and Coin Token
 ![Deploy Kasei Coin Crowdsale and Coin Token](Images/kasei_coin_crowdsale_optional_deployer_3.png)
-### Deployed Kasei Coin Crowdsale - goalReached
-![Deployed Kasei  Kasei Coin](Images/kaseicoin_crowdsale_deployer_deployment_5_2.png)
 
 ### Buy 1000 tokens
 ![Buy 1000 Tokens](Images/Images/kasei_coin_crowdsale_optional_deployer_4.png)
