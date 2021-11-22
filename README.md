@@ -13,12 +13,12 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 
 ## Use the KaseiCoinCrowdsaleDeployer to deploy the KaseiCoin Crowdsale
 ![Setup the KaseiCoinCrowdsaleDeployer](Images/kasei_coin_crowdsale_deployer_deployment_1_2.png)
-## Deployed the Kasei Coin Crowdsale Deployer
+## Deployed Kasei Coin Crowdsale Deployer
 ![Deployed Kasei Coin Crowdsale Deployer ](Images/kasei_coin_crowdsale_deployer_deployment_2_2.png)
-## Deploy the Kasei Coin Crowdsale 
+## Deployed Kasei Coin Crowdsale 
 ![Deploy Kasei Coin Crowdsale](Images/kasei_coin_crowdsale_deployer_deployment_3_2.png)
-## Deployed Kasei Coin Crowdsale
-![Deployed Kasei  Kasei Coin](Images/kasei_coin_crowdsale_deployer_deployment_4_2.png)
+## Deployed Kasei Coin
+![Deployed Kasei Coin](Images/kasei_coin_crowdsale_deployer_deployment_4_2.png)
 
 ## Buy 54321 tokens
 ![Buy 54321 Tokens](Images/kasei_coin_crowdsale_deployer_deployment_5_2.png)
