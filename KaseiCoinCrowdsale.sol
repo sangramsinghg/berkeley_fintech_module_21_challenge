@@ -34,33 +34,33 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, Time
 
 
 contract KaseiCoinCrowdsaleDeployer {
-    // Create an `address public` variable called `kasei_token_address`.
-    address public kasei_token_address;
-    // Create an `address public` variable called `kasei_crowdsale_address`.
-    address public kasei_crowdsale_address;
+    // Create an `address public` variable called `kaseiTokenAddress`.
+    address public kaseiTokenAddress;
+    // Create an `address public` variable called `kaseiCrowdsaleAddress`.
+    address public kaseiCrowdsaleAddress;
 
     // Add the constructor.
     constructor(
        string memory name,
        string memory symbol,
        address payable wallet,
-       uint initial_supply,
+       uint initialSupply,
        uint goal
     ) public {
         // Create a new instance of the KaseiCoin contract.
-        KaseiCoin token = new KaseiCoin(name, symbol, initial_supply);
+        KaseiCoin token = new KaseiCoin(name, symbol, initialSupply);
         
         // Assign the token contract’s address to the `kasei_token_address` variable.
-        kasei_token_address = address(token);
+        kaseiTokenAddress = address(token);
 
         // Create a new instance of the `KaseiCoinCrowdsale` contract
-        KaseiCoinCrowdsale kasei_crowdsale = new KaseiCoinCrowdsale(1, wallet, token, goal, now, now + 30 minutes);
+        KaseiCoinCrowdsale kaseiCrowdsale = new KaseiCoinCrowdsale(1, wallet, token, goal, now, now + 30 minutes);
             
-        // Aassign the `KaseiCoinCrowdsale` contract’s address to the `kasei_crowdsale_address` variable.
-        kasei_crowdsale_address = address(kasei_crowdsale);
+        // Aassign the `KaseiCoinCrowdsale` contract’s address to the `kaseiCrowdsaleAddress` variable.
+        kaseiCrowdsaleAddress = address(kaseiCrowdsale);
 
         // Set the `KaseiCoinCrowdsale` contract as a minter
-        token.addMinter(kasei_crowdsale_address);
+        token.addMinter(kaseiCrowdsaleAddress);
         
         // Have the `KaseiCoinCrowdsaleDeployer` renounce its minter role.
         token.renounceMinter();
