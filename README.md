@@ -12,7 +12,7 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ![Compiled KaseiCoinCrowdsaleDeployer](Images/kasei_coin_crowdsale_deployer_evaluation_evidence.png)
 
 ## Use the KaseiCoinCrowdsaleDeployer to deploy the KaseiCoin Crowdsale
-![Setup the KaseiCoinCrowdsaleDeployer](Images/kasei_c_oin_crowdsale_deployer_deployment_1_2.png)
+![Setup the KaseiCoinCrowdsaleDeployer](Images/kasei_coin_crowdsale_deployer_deployment_1_2.png)
 ## Deployed the Kasei Coin Crowdsale Deployer
 ![Deployed Kasei Coin Crowdsale Deployer ](Images/kasei_coin_crowdsale_deployer_deployment_2_2.png)
 ## Deploy the Kasei Coin Crowdsale 
@@ -58,21 +58,21 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ### Verify that the cap of 5000 is reached and hasClosed is false
 ![Cap Reached](Images/Images/kasei_coin_crowdsale_optional_deployer_7.png)
 ### Verify in Ganache that the 5000 wei/tokens have been raised 
-![Verify the 5000 Tokens in Ganache](Images/kaseicoin_crowdsale_optional_deployer_8.png)
+![Verify the 5000 Tokens in Ganache](Images/kasei_coin_crowdsale_optional_deployer_8.png)
 ### Verify in Ganache that the eth in 0xA92 and 0x481 accounts have decreased 
-![Verify the eth in 0xA92 and 0x481 in Ganache](Images/kaseicoin_crowdsale_optional_deployer_12.png)
+![Verify the eth in 0xA92 and 0x481 in Ganache](Images/kasei_coin_crowdsale_optional_deployer_12.png)
 
 ### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 4
-![Verify the 5000 Tokens in Metamask](Images/kaseicoin_crowdsale_optional_deployer_9.png)
+![Verify the 5000 Tokens in Metamask](Images/kasei_coin_crowdsale_optional_deployer_9.png)
 ### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 4 in Swap Section
-![Verify the 5000 Tokens in Metamask Swap](Images/kaseicoin_crowdsale_optional_deployer_10.png)
-
+![Verify the 5000 Tokens in Metamask Swap](Images/kasei_coin_crowdsale_optional_deployer_10.png)
+_
 ### Finalize before the closing time - fails
-![Verify that the finalize before closing fails](Images/kaseicoin_crowdsale_optional_deployer_11.png)
-### Finalize after the closing time - passes
-![Verify that the finalize after closing - passes](Images/kaseicoin_crowdsale_optional_deployer_13.png)
+![Verify that the finalize before closing fails](Images/kasei_coin_crowdsale_optional_deployer_11.png)
+### Finalize after the closing time (30 mins from crowdsale deployment) - passes
+![Verify that the finalize after closing - passes](Images/kasei_coin_crowdsale_optional_deployer_13.png)
 ### Verify the finalized crowdsale - finalized is true and hasClosed is true and isOpen is false
-![Verify that the finalized crowdsale](Images/kaseicoin_crowdsale_optional_deployer_14.png)
+![Verify that the finalized crowdsale](Images/kasei_coin_crowdsale_optional_deployer_14.png)
 
 ---
 
