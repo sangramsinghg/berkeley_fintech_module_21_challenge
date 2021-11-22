@@ -62,9 +62,9 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ### Verify in Ganache that the eth in 0xA92 and 0x481 accounts have decreased 
 ![Verify the eth in 0xA92 and 0x481 in Ganache](Images/kasei_coin_crowdsale_optional_deployer_12.png)
 
-### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 4
+### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 3
 ![Verify the 5000 Tokens in Metamask](Images/kasei_coin_crowdsale_optional_deployer_9.png)
-### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 4 in Swap Section
+### Verify in Metmask that the 5000 wei/tokens have been supplied to Account 3 in Swap Section
 ![Verify the 5000 Tokens in Metamask Swap](Images/kasei_coin_crowdsale_optional_deployer_10.png)
 _
 ### Finalize before the closing time - fails
