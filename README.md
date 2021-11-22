@@ -76,7 +76,9 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 
 ## Send the 5000 Kasei Coin tokens from Account 3 to Account 4
 ![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 1](Images/metamask_send_all_5000_kasc_tokens_1.png)
+
 ![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 2](Images/metamask_send_all_5000_kasc_tokens_2.png)
+
 ![Send the 5000 Kasei Coin tokens from Account 3 to Account 4 - 3](Images/metamask_send_all_5000_kasc_tokens_3.png)
 
 ---
