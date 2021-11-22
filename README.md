@@ -49,14 +49,14 @@ Mint the fungible token using a timed and capped crowdsale to sell the tokens.
 ![Deploy Kasei Coin Crowdsale and Coin Token](Images/kasei_coin_crowdsale_optional_deployer_3.png)
 
 ### Buy 1000 tokens
-![Buy 1000 Tokens](Images/Images/kasei_coin_crowdsale_optional_deployer_4.png)
+![Buy 1000 Tokens](Images/kasei_coin_crowdsale_optional_deployer_4.png)
 ### Buy 4000 tokens
-![Buy 4000 Tokens](Images/Images/kasei_coin_crowdsale_optional_deployer_5.png)
+![Buy 4000 Tokens](Images/kasei_coin_crowdsale_optional_deployer_5.png)
 
 ### Verify that the goal of 5000 is reached and weiRaised is 5000
-![Goal Reached](Images/Images/kasei_coin_crowdsale_optional_deployer_6.png)
+![Goal Reached](Images/kasei_coin_crowdsale_optional_deployer_6.png)
 ### Verify that the cap of 5000 is reached and hasClosed is false
-![Cap Reached](Images/Images/kasei_coin_crowdsale_optional_deployer_7.png)
+![Cap Reached](Images/kasei_coin_crowdsale_optional_deployer_7.png)
 ### Verify in Ganache that the 5000 wei/tokens have been raised 
 ![Verify the 5000 Tokens in Ganache](Images/kasei_coin_crowdsale_optional_deployer_8.png)
 ### Verify in Ganache that the eth in 0xA92 and 0x481 accounts have decreased 
